@@ -4,7 +4,7 @@
 sudo apt-get update
 sudo apt-get install -y git
 
-# Install Git in RedHast distributions like RHEl, CentOs
+# Install Git in RedHat distributions like RHEl, CentOs
 sudo yum update
 sudo yum install -y git
 
